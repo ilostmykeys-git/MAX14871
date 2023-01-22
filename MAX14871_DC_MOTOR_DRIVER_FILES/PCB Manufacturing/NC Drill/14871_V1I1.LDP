@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\MAX14871_DC_Motor_Driver\14871_V1I1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=14871_v1i1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=14871_v1i1-slotholes.txt|DrillLayers=gtl,gbl

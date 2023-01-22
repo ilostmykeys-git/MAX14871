@@ -1,0 +1,69 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\MAX14871_DC_Motor_Driver\Project Outputs for MAX14871_DC_Motor_Driver\Pick Place\Pick Place for 14871_V1I1(001).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28-12-22
+Time:       16:19
+Revision:   Not in VersionControl
+Variant:    001
+Units used: mm
+
+Designator Comment           Layer    Footprint                        Center-X(mm) Center-Y(mm) Rotation Description                                                                            
+C12        1uF               TopLayer C0805                            58.6000      33.4000      180      "Cap Cer 1UF 35V X7R 0805"                                                             
+U4         NE555DR           TopLayer 8-SOIC                           58.4051      5.5350       360      "IC OSC SGL TIMER 100KHZ 8-SOIC"                                                       
+U3         NE555DR           TopLayer 8-SOIC                           58.3000      11.8500      360      "IC OSC SGL TIMER 100KHZ 8-SOIC"                                                       
+U2         MAX14871EUE+T     TopLayer 21-0108_U16E+3_MXM-M             57.7000      27.6000      270      "IC Motor Driver 4.5V-36V 16TSSOP"                                                     
+U1         AP62200WU-7       TopLayer TSOT26                           37.4000      8.7500       360      "4.2V to 18V Input 2A Low IQ Synchronous Buck Converter 6-Pin TSOT-26 T/R"             
+R23        1K                TopLayer R0805                            50.6000      7.1000       270      "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R22        3K                TopLayer R0805                            64.2000      5.2000       180      "RES SMD 3K OHM 1% 1/8W 0805 Thick Film ±100ppm/C Pad SMD T/R"                         
+R21        0R                TopLayer R0805                            52.4000      14.0000      180      "JUMPER SMD 0 OHM 150V 1/8W 0805"                                                      
+R20        1K                TopLayer R0805                            52.4000      16.3000      180      "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R19        1K                TopLayer R0805                            58.0000      18.3000      270      "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R18        0R1               TopLayer R1206                            64.1150      27.6000      180      "RES SENSE SMD 0R1 OHM 1% 1W 1206"                                                     
+R17        4K02              TopLayer R0805                            55.7000      18.3000      90       "RES SMD 4K02 OHM 1% 1/8W 0805 Thick Film 2.0 x 1.2 mm 100ppm/ C Molded SMD Paper T/R" 
+R16        200R              TopLayer R0805                            47.9500      20.7000      180      "RES SMD 200 OHM 1% 1/8W 0805 ±100ppm/°C "                                             
+R15        1K                TopLayer R0805                            52.1000      30.9000      180      "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R14        5K6               TopLayer R0805                            52.1000      33.2000      360      "RES SMD 5K6 OHM 5% 1/8W 0805  Thick Film ±100ppm/C Pad SMD T/R"                       
+R13        1K                TopLayer R0805                            53.6000      23.8500      270      "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R12        5K                TopLayer TRIM_PT01-D120D-B502             19.5000      6.6000       90       "POT 5K OHM Panel Mount/Through Hole, Rotary Potentiometer"                            
+R11        0R                TopLayer R0805                            25.5000      7.2500       270      "JUMPER SMD 0 OHM 150V 1/8W 0805"                                                      
+R10        0R                TopLayer R0805                            49.9500      11.7000      360      "JUMPER SMD 0 OHM 150V 1/8W 0805"                                                      
+R9         1K                TopLayer R0805                            53.0000      11.0000      90       "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R8         1K                TopLayer R0805                            64.0000      12.7000      180      "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R7         7K15              TopLayer R0805                            25.5000      10.8000      90       "RES SMD 7K15 OHM 1% 1/8W 0805 Thick Film 2.0 x 1.2 mm 100ppm/ C Molded SMD Paper T/R" 
+R6         1K                TopLayer R0805                            48.5000      33.2000      180      "RES SMD 1K OHM 1% 1/8W 0805"                                                          
+R5         0R                TopLayer R2010                            31.7000      23.0000      180      "Res Thick Film 2010 0 Ohm Molded SMD Automotive Plastic T/R"                          
+R4         200R              TopLayer R0805                            40.3000      2.0000       180      "RES SMD 200 OHM 1% 1/8W 0805 ±100ppm/°C "                                             
+R3         10K               TopLayer R0805                            40.5000      5.0500       270      "RES SMD 10K OHM 1% 1/8W  0805 Thick Film+/-100ppm/C Epoxy Pad SMD T/R"                
+R2         200R              TopLayer R0805                            21.5000      15.0000      90       "RES SMD 200 OHM 1% 1/8W 0805 ±100ppm/°C "                                             
+R1         52K3              TopLayer R0805                            43.2000      8.0000       180      "RES SMD 52K3 OHM 1% 1/8W 0805 ±100ppm/°C SMD Paper T/R"                               
+Q2         DMP21D0UT-7       TopLayer SOT523                           51.2550      24.7000      360      "MOSFET P-CH 20V 0.59A SOT523"                                                         
+Q1         AOD413A           TopLayer TO252                            17.3000      20.5000      180      "MOSFET P-CH 40V 12A TO252"                                                            
+MH4        MH_7.4MMNC_3.2MMD TopLayer MH_7.4MMD_3.2MMD_NON_COPPER_NPTH 75.0000      5.0000       0        "Hole 7.4MM Diameter (Non Copper), 3.2mm Drill NPTH"                                   
+MH3        MH_7.4MMC_3.2MMD  TopLayer MH_7.4MMC_3.2MMD                 75.0000      30.0000      0        "Mounting Hole 7.4mm Diameter, 3.2mm Drill"                                            
+MH2        MH_7.4MMC_3.2MMD  TopLayer MH_7.4MMC_3.2MMD                 5.0000       30.0000      0        "Mounting Hole 7.4mm Diameter, 3.2mm Drill"                                            
+MH1        MH_7.4MMC_3.2MMD  TopLayer MH_7.4MMC_3.2MMD                 5.0000       5.0000       0        "Mounting Hole 7.4mm Diameter, 3.2mm Drill"                                            
+LED2       LSR976-NR-1       TopLayer LED0805                          50.8000      21.7000      90       "LED SMT RED 0805"                                                                     
+LED1       LGR971-K1-1       TopLayer LED0805_-_GREEN                  43.2500      4.7500       90       "LED SMT GREEN 0805"                                                                   
+L1         4.7uH             TopLayer NR6028T4R7M                      37.2000      13.7000      180      "Inductor Power Shielded Wirewound 4.7uH 20% 100KHz Ferrite 3A 0.0403Ohm DCR 2424 T/R" 
+JP1        "HDR 1x3"         TopLayer HDR_1X3_2.54MM                   45.2000      30.4000      360      "CONN HEADER VERT 3POS 2.54MM"                                                         
+J2         1935161           TopLayer 1935161                          74.3000      17.5000      0        "Conn PC Terminal Block 2 POS 5mm Solder ST Thru-Hole 17.5A"                           
+J1         1935161           TopLayer 1935161                          6.0000       18.0000      180      "Conn PC Terminal Block 2 POS 5mm Solder ST Thru-Hole 17.5A"                           
+FID4       FID_1MM           TopLayer FID_40X120D                      78.2220      10.7548      180      "Fiducial 40mil diameter, 120 Mask"                                                    
+FID3       FID_1MM           TopLayer FID_40X120D                      69.4000      33.2000      90       "Fiducial 40mil diameter, 120 Mask"                                                    
+FID2       FID_1MM           TopLayer FID_40X120D                      11.0000      33.0000      90       "Fiducial 40mil diameter, 120 Mask"                                                    
+FID1       FID_1MM           TopLayer FID_40X120D                      6.5407       10.5831      360      "Fiducial 40mil diameter, 120 Mask"                                                    
+F1         3A                TopLayer FUSE1206                         25.4800      22.5000      360      "Fuse Chip 3A 63V Slow Blow 2-Pin T/R"                                                 
+D2         16V               TopLayer TVS_SOD123FL                     25.9000      18.1000      270      "TVS DIODE 16VWM 26VC SOD123FL"                                                        
+D1         10V               TopLayer SOD123_ZENER                     23.7000      18.0000      270      "Vz=10V 9.4V~10.6V Izt=5mA"                                                            
+C11        0.01uF            TopLayer C0805                            53.0000      7.1730       270      "CAP CER 0.01uF 50V X7R 10% SMD 0805 125C Plastic T/R"                                 
+C10        0.1uF             TopLayer C0805                            64.3000      7.4000       360      "CAP CER 0.1UF X7R 50V 0805  +/-10%; 50WVDC; SMD; 2.5% Df; 0.037IN. ,"                 
+C8         0.01uF            TopLayer C0805                            64.1000      10.4000      180      "CAP CER 0.01uF 50V X7R 10% SMD 0805 125C Plastic T/R"                                 
+C7         0.1uF             TopLayer C0805                            25.5000      3.3000       90       "CAP CER 0.1UF X7R 50V 0805  +/-10%; 50WVDC; SMD; 2.5% Df; 0.037IN. ,"                 
+C5         1uF               TopLayer C0805                            58.9000      21.2000      180      "Cap Cer 1UF 35V X7R 0805"                                                             
+C4         22uF              TopLayer C0805                            30.1000      11.2500      90       "CAP CER 6.3V X5R 20% SMD 0805 85°C Embossed T/R"                                      
+C3         22uF              TopLayer C0805                            32.5000      11.2500      90       "CAP CER 6.3V X5R 20% SMD 0805 85°C Embossed T/R"                                      
+C2         10uF              TopLayer C0805                            32.5000      7.4000       270      "CAP CER 10UF 25V X5R 0805"                                                            
+C1         0.1uF             TopLayer C0805                            42.0000      11.2000      270      "CAP CER 0.1UF X7R 50V 0805  +/-10%; 50WVDC; SMD; 2.5% Df; 0.037IN. ,"                 

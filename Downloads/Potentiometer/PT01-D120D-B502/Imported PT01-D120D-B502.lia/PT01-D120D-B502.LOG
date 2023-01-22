@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : PT01-D120D-B502.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\Projects\MAX14871_DC_Motor_Driver\Downloads\Potentiometer\PT01-D120D-B502\PT01-D120D-B502.lia
+    Section : PCB Library - PT01-D120D-B502.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token PT01-D120D-B502 On Line 177
+            Warning - 1 : Skipping Token attachedSymbol On Line 238
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - PT01-D120D-B502.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token layerContents On Line 125
+            Warning - 1 : Skipping Token layerContents On Line 142
+            Warning - 1 : Skipping Token layerContents On Line 159
+            Warning - 1 : Skipping Token layerContents On Line 165
+        EndSection
+
+        Section : Generating SCH Library - PT01-D120D-B502.SchLib
+        EndSection
+    EndSection
+EndSection

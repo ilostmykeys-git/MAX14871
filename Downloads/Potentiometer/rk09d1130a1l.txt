@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09102014-117944";"";
+"REFERENCE";"RK09D1130A1L";"";
+"rs_stock_number";"7293644";"";
+"TraceParts.PartTitle";"Alps Alpine 1 Gang Rotary Potentiometer with a 6 mm Dia. Shaft, 50kΩ, ±20%, 0.05W, Linear RK09D1130A1L";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/7293644?cm_mmc=en-ds-_-mcad-_-traceparts-_-7293644'";"";
+"SUPPLIER";"Alps";"";
+"DESIGN";"Alps Alpine 1 Gang Rotary Potentiometer with a 6 mm Dia. Shaft, 50kΩ, ±20%, 0.05W, Linear RK09D1130A1L";"";
+"TraceParts.InstanceId";"10-09102014-1179445KU9A76GPFDH9N4I1X3BO07AA";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TraceParts.PartLanguage";"en";"";
